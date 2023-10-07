@@ -28,3 +28,7 @@ variable "subnet2-cidr" {
 variable "subent_az" {
     default =  "us-east-1a"
 }
+variable "subent-2_az" {
+    default =  "us-east-1b"
+}
+
